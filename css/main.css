@@ -33,3 +33,7 @@ tr > th {
   background-color: black;
   color: azure;
 } */
+h1 {
+  color: rgba(238, 223, 205, 0.184);
+  font-size: 30px;
+}

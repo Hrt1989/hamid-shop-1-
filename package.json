@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "live-server": "^1.2.2"
   },
-  "devDependencies": {},
   "description": ""
 }
