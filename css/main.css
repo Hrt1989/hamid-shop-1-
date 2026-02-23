@@ -1,5 +1,7 @@
 @import "./seek.css";
 @import "./p1.css";
+@import React from "react";
+@import ReactDOM from "react-dom";
 
 /* h1 {
   background-color: rgba(0, 0, 255, 0);
